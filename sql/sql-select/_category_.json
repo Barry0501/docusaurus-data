@@ -1,0 +1,8 @@
+{
+  "label": "SQL Select",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "In this tutorial, we'll learn about the SQL SELECT statement with the help of examples."
+  }
+}
